@@ -1,9 +1,9 @@
 {
-  "project": "boilerplate",
+  "project": "social-network",
   "presentation": "nuxt-vue",
   "foundation": "project-boilerplate-nuxt-vue",
-  "foundationCommit": null,
-  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "foundationCommit": "09d557fc80ff8021b737395a0fb76ab6edcaf615",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/social-network/README.md",
   "status": "skeleton",
   "enabledModules": []
 }
